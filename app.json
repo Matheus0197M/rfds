@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rfds",
-    "slug": "rfds",
+    "name": "Resolva em um FDS!",
+    "slug": "ReFDS",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-image"
+    ]
   }
 }
